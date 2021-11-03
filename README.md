@@ -31,3 +31,7 @@ Price Strategy - un distribuitor își alege producătorii prioritizând doar du
 Quantity Strategy - un distribuitor își alege producătorii prioritizând după cantitatea de energie oferită per distribuitor.
 
 
+*****Simularea este bazată pe runde reprezentate de luni. La finalul fiecărei luni, toți consumatorii înregistrați trebuie să aibă o sursa de electricitate, altfel se consideră că aceștia nu își pot permite și sunt dați afara din joc. La fel se întâmplă și cu distribuitorii ce rămân fără bani, cu precizarea ca în momentul falimentarii, toți consumatorii ce au contract cu acesta, vor trebui să își formeze alt contract incepand cu luna următoare.
+La începutul fiecărei luni distribuitorii vor stabili noile prețuri, urmând ca după ce aceștia termină, să vina rândul consumatorilor, care vor alege un contract (dacă nu au deja unul), urmând ca la finalul lunii să plătească rata curentă. Simularea începe cu o runda inițială, unde sunt folosite datele primite la început, apoi sunt rulate numberOfTurns luni, care se folosesc de noile preturi primite la începutul fiecărei luni. Astfel, simularea se termină când au fost rulate numberOfTurns + 1 runde și se afișează starea curentă a simulării. În cazul în care toți distribuitorii dau faliment, jocul se va încheia.*****
+
+
