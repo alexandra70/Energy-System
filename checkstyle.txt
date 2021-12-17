@@ -1,0 +1,6 @@
+Starting audit...
+[ERROR] C:\Users\oango\Desktop\oop\teme-master\teme\proiect-etapa2-energy-system\.\src\database\DistributorData.java:6:17: Using the '.*' form of import should be avoided - java.util.*. [AvoidStarImport]
+[ERROR] C:\Users\oango\Desktop\oop\teme-master\teme\proiect-etapa2-energy-system\.\src\database\EnergyObjectsFactory.java:51:9: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\oango\Desktop\oop\teme-master\teme\proiect-etapa2-energy-system\.\src\database\ProducerData.java:5:17: Using the '.*' form of import should be avoided - java.util.*. [AvoidStarImport]
+Audit done.
+Checkstyle ends with 3 errors.
