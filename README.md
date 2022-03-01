@@ -1,6 +1,6 @@
 # EnergySystem Descriere 
 >Despre
-Proiectare Orientata pe Obiecte, Seriile CA, CD 2020-2021
+Proiectare Orientata pe Obiecte, Seriile CA, CD
 
 https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/proiect/etapa2
 
