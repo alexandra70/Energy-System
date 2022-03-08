@@ -2,7 +2,13 @@
 >Despre
 Proiectare Orientata pe Obiecte, Seriile CA, CD
 
-https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/proiect/etapa2
+The aim was to simulate an energetic system on which the proper functioning 
+of the entire country's economy depend. The three main entities, consumers, 
+distributors and producers have multiple attributions in this simulation.  Among 
+the implementation of this project, four design patterns were used: Singleton, 
+Strategy, Factory, and Observer. OOP concepts were also used, such as 
+inheritance and encapsulation (the data within the classes is private, and can 
+be accessed only through getters and setters) .
 
 >Rulare teste
 Clasa Test#main
